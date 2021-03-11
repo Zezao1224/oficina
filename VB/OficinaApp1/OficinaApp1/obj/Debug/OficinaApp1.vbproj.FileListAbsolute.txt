@@ -1,0 +1,12 @@
+D:\OFICINA\VB\OficinaApp1\OficinaApp1\bin\Debug\OficinaApp1.exe.config
+D:\OFICINA\VB\OficinaApp1\OficinaApp1\bin\Debug\OficinaApp1.exe
+D:\OFICINA\VB\OficinaApp1\OficinaApp1\bin\Debug\OficinaApp1.pdb
+D:\OFICINA\VB\OficinaApp1\OficinaApp1\bin\Debug\OficinaApp1.xml
+D:\OFICINA\VB\OficinaApp1\OficinaApp1\obj\Debug\OficinaApp1.vbprojAssemblyReference.cache
+D:\OFICINA\VB\OficinaApp1\OficinaApp1\obj\Debug\OficinaApp1.Resources.resources
+D:\OFICINA\VB\OficinaApp1\OficinaApp1\obj\Debug\OficinaApp1.vbproj.GenerateResource.cache
+D:\OFICINA\VB\OficinaApp1\OficinaApp1\obj\Debug\OficinaApp1.vbproj.CoreCompileInputs.cache
+D:\OFICINA\VB\OficinaApp1\OficinaApp1\obj\Debug\OficinaApp1.exe
+D:\OFICINA\VB\OficinaApp1\OficinaApp1\obj\Debug\OficinaApp1.xml
+D:\OFICINA\VB\OficinaApp1\OficinaApp1\obj\Debug\OficinaApp1.pdb
+D:\OFICINA\VB\OficinaApp1\OficinaApp1\obj\Debug\OficinaApp1.Fmr_Login.resources
